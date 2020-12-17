@@ -5,3 +5,5 @@ welcome to my personal web.
 
 1. Don't forget to check this out!
 2. Don't forget to check that out!
+
+Markdown syntax link: https://guides.github.com/features/mastering-markdown/
